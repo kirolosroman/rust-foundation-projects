@@ -1,4 +1,4 @@
 [workspace]
 members = [
-    # Your projects will go here later, e.g., "01_display_trait"
+    "display_and_fromstr",
 ]
